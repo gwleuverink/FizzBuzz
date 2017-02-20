@@ -1,0 +1,19 @@
+{
+    "name": "leuverink/fizzbuzz",
+    "description": "A basic FizzBuzz exercise for practicing SOLID principles.",
+    "type": "exercise",
+    "authors": [
+        {
+            "name": "gwleuverink",
+            "email": "gwleuverink@me.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "FizzBuzz\\":"leuverink/fizzbuzz/src",
+            "Leuverink\\FizzBuzz\\": "src/leuverink/fizzbuzz/src"
+        }
+    }
+}
