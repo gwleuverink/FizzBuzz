@@ -9,7 +9,9 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {},
+    "require": {
+        "larapack/dd": "1.*"
+    },
     "autoload": {
         "psr-4": {
             "FizzBuzz\\":"leuverink/fizzbuzz/src",
