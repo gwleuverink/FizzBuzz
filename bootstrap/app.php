@@ -1,14 +1,14 @@
 <?php
 /*
 |--------------------------------------------------------------------------
-| Require the auto loader
+| Register the auto loader
 |--------------------------------------------------------------------------
 */
 require __DIR__.'/autoloader.php';
 
 /*
 |--------------------------------------------------------------------------
-| Require the main application script
+| Register the main application script
 |--------------------------------------------------------------------------
 */
 require __DIR__ . '/../app/application.php';

@@ -1,5 +1,10 @@
 <?php
+/*
+|--------------------------------------------------------------------------
+| This is our bootstrapped app
+|--------------------------------------------------------------------------
+*/
+
 use Leuverink\FizzBuzz\FizzBuzz;
 
-$fizzBuzz = new FizzBuzz();
-
+dd(FizzBuzz::generateList(30));
