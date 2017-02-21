@@ -5,6 +5,9 @@
 |--------------------------------------------------------------------------
 */
 
-use Leuverink\FizzBuzz\FizzBuzz;
+use \Leuverink\Fizzbuzz\FizzBuzzGenerator;
 
-dd(FizzBuzz::generateList(30));
+dd(FizzBuzzGenerator::generateList(30));
+
+use \Vehicle\Road\Car;
+new Car();

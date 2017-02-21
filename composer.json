@@ -14,8 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "FizzBuzz\\":"leuverink/fizzbuzz/src",
-            "Leuverink\\FizzBuzz\\": "src/leuverink/fizzbuzz/src"
+            "Leuverink\\Fizzbuzz\\": "src/leuverink/fizzbuzz/"
         }
     }
 }
