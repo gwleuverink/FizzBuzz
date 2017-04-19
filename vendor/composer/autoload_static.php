@@ -20,11 +20,7 @@ class ComposerStaticInit18e8e0aeffffa9f1f3e2f6d281357e32
         ),
         'L' => 
         array (
-            'Leuverink\\FizzBuzz\\' => 19,
-        ),
-        'F' => 
-        array (
-            'FizzBuzz\\' => 9,
+            'Leuverink\\Fizzbuzz\\' => 19,
         ),
     );
 
@@ -37,13 +33,9 @@ class ComposerStaticInit18e8e0aeffffa9f1f3e2f6d281357e32
         array (
             0 => __DIR__ . '/..' . '/symfony/var-dumper',
         ),
-        'Leuverink\\FizzBuzz\\' => 
+        'Leuverink\\Fizzbuzz\\' => 
         array (
-            0 => __DIR__ . '/../..' . '/src/leuverink/fizzbuzz/src',
-        ),
-        'FizzBuzz\\' => 
-        array (
-            0 => __DIR__ . '/../..' . '/leuverink/fizzbuzz/src',
+            0 => __DIR__ . '/../..' . '/src/leuverink/fizzbuzz',
         ),
     );
 
