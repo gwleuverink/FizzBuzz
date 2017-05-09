@@ -8,6 +8,3 @@
 use \Leuverink\Fizzbuzz\FizzBuzzGenerator;
 
 dd(FizzBuzzGenerator::generateList(30));
-
-use \Vehicle\Road\Car;
-new Car();
