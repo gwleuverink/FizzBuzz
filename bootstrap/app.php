@@ -11,4 +11,4 @@ require __DIR__.'/autoloader.php';
 | Register the main application script
 |--------------------------------------------------------------------------
 */
-require __DIR__ . '/../app/application.php';
+require __DIR__.'/../app/application.php';
