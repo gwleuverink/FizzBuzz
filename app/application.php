@@ -5,6 +5,6 @@
 |--------------------------------------------------------------------------
 */
 
-use \Leuverink\Fizzbuzz\FizzBuzzGenerator;
+use Leuverink\Fizzbuzz\FizzBuzzGenerator;
 
 dd(FizzBuzzGenerator::generateList(30));
